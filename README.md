@@ -6,7 +6,7 @@
 ```
 
 ### check your database
-  数据库中多了一张test001的表
+ * 数据库中多了一张test001的表
 ### 描述
  * changelog.xml 描述数据变更
  * deamon 以mysql数据库为例
