@@ -1,4 +1,4 @@
-liquibase opt mysql  deamon
+# liquibase opt mysql  deamon
 
 ## run the ChangeSet
 ```shell
@@ -10,3 +10,6 @@ liquibase opt mysql  deamon
 ## 描述
  * changelog.xml 描述数据变更
  * deamon 以mysql数据库为例
+ 
+## 更多操作，请参考官方文档
+ - http://www.liquibase.org/documentation/index.html
