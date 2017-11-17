@@ -1,6 +1,6 @@
 # liquibase opt mysql  deamon
 
-### auto generata ChangeLog
+### auto generate ChangeLog
 ```shell
 liquibase --driver=com.mysql.jdbc.Driver --classpath=./mysql/mysql-connector-java-5.1.44-bin.jar --url=jdbc:mysql://localhost/test   --username=root --password=king --referenceUrl=jdbc:mysql://localhost/test01 --referenceUsername=root --referencePassword=king  diffChangeLog >test.xml 
 ```      
